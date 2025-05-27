@@ -4,7 +4,7 @@
   "description": "Thsi is a node project",
   "main": "index.js",
   "author": "eooce",
-  "repository": "https://github.com/eooce/nodejs-argo",
+  "repository": "https://github.com/zpyuanyuan/nodejs-argo",
   "license": "MIT",
   "private": false,
   "scripts": {
