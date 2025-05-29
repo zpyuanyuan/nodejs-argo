@@ -9,10 +9,9 @@
   "private": false,
   "scripts": {
     "start": "node index.js",
-    "test": "node test/index.js" // 假设有一个测试文件 test/index.js
   },
   "dependencies": {
-    "axios": "^0.1.1", // 替换为具体的版本号或兼容范围
+    "axios": "^0.1.1", 
     "express": "^4.18.2"
   },
   "engines": {
