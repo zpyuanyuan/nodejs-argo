@@ -1,20 +1,22 @@
 {
   "name": "nodejs-argo",
   "version": "8.8.8",
-  "description": "Thsi is a node project",
+  "description": "This is a node project",
   "main": "index.js",
-  "author": "eooce",
+  "author": "Your Full Name or Organization",
   "repository": "https://github.com/zpyuanyuan/nodejs-argo",
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "node test/index.js" // 假设有一个测试文件 test/index.js
   },
   "dependencies": {
-    "axios": "latest",
+    "axios": "^0.1.1", // 替换为具体的版本号或兼容范围
     "express": "^4.18.2"
   },
   "engines": {
     "node": ">=14"
   }
 }
+
